@@ -1,5 +1,5 @@
 # 内容：EMBY媒体
-# 数量：条
+# 数量：9条
 PROCESS-NAME,JellyfinMediaPlayer.exe
 PROCESS-NAME,QtWebEngineProcess.exe
 PROCESS-NAME,electron.exe
