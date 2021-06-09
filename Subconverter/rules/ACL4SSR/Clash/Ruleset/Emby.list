@@ -1,0 +1,11 @@
+# 内容：EMBY媒体
+# 数量：条
+PROCESS-NAME,JellyfinMediaPlayer.exe
+PROCESS-NAME,QtWebEngineProcess.exe
+PROCESS-NAME,electron.exe
+PROCESS-NAME,Emby.Theater.exe
+DOMAIN-SUFFIX,jmsooo.com
+DOMAIN-SUFFIX,emby.wtf
+DOMAIN-SUFFIX,otakudrive.life
+DOMAIN-SUFFIX,plusmedia.site
+DOMAIN-SUFFIX,xeton.dev

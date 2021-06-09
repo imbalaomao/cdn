@@ -1,0 +1,13 @@
+# 内容：游戏平台
+# 数量：11条
+PROCESS-NAME,WarfaceMycomSteamLoader.exe
+PROCESS-NAME,Game.exe
+PROCESS-NAME,GameDX11.exe
+PROCESS-NAME,CrashSender1402.exe
+PROCESS-NAME,BrowserClient.exe
+PROCESS-NAME,GameCenter.exe
+PROCESS-NAME,MyComGames.exe
+PROCESS-NAME,hg64.exe
+PROCESS-NAME,ModernWarfare.exe
+PROCESS-NAME,Modern Warfare Launcher.exe
+PROCESS-NAME,BlizzardBrowser.exe
