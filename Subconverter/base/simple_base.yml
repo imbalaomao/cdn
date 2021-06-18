@@ -1,6 +1,0 @@
-port: 12123
-socks-port: 19191
-allow-lan: true
-mode: Rule
-log-level: debug
-external-controller: 127.0.0.1:9090
